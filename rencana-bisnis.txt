@@ -2,7 +2,10 @@ Rencana Wpu
 - Js
  *ES 6
  *angular
+ & vue js
  -struktur data dasar
 - Frame work
+^laravel
 - interview
 - Flog
+-Phyton
