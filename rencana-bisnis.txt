@@ -1,0 +1,7 @@
+Rencana Wpu
+- Js
+ *ES 6
+ *angular
+- Frame work
+- interview
+- Flog
