@@ -3,7 +3,10 @@ Rencana Wpu
  *ES 6
  *angular
  ^ react
+ vue js
+ -struktur data dasar
 - Frame work
 ^laravel
 - interview
 - Flog
+-Phyton
