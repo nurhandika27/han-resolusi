@@ -2,8 +2,8 @@ Rencana Wpu
 - Js
  *ES 6
  *angular
- & vue js
  ^ react
+ vue js
  -struktur data dasar
 - Frame work
 ^laravel
