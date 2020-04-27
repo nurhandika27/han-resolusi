@@ -2,7 +2,8 @@ Rencana Wpu
 - Js
  *ES 6
  *angular
- -struktur data dasar
+ ^ react
 - Frame work
+^laravel
 - interview
 - Flog
